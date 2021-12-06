@@ -1,8 +1,8 @@
 import logging
 import pandas as pd
 
-# path = '/home/smadden7/OneDrive/'
-path =  '/home/tloken/inputs/'
+path = '/home/smadden7/OneDrive/'
+#path =  '/home/tloken/inputs/'
 v2020_base_count = '101010'
 v2021_base_count = '099993'
 build_nadac = "nadac file built successfully"
